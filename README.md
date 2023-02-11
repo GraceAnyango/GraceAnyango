@@ -18,4 +18,6 @@
 
 ![Grace Anyango's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceAnyango&show_icons=true&theme=radical)
 
+## Most used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraceAnyango)](https://github.com/anuraghazra/github-readme-stats)
