@@ -1,4 +1,4 @@
-👋Hi there! I am Grace Anyango
+## Hi there👋, I am Grace Anyango
 
 🔭 Developing ML models to analyze big data.
 
@@ -8,7 +8,7 @@
 
 🤔 Seeking help with data visualization and communication.
 
-💬 Ask me about data science and AI trends.
+💬 Ask me about data science trends.
 
 📫 Connect with me on LinkedIn or email at ganyango28@gmail.com
 
@@ -16,8 +16,7 @@
 
 ⚡ Passionate about solving real-world problems with data.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceAnyango&show_icons=true&theme=radical)
+![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceAnyango&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraceAnyango)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraceAnyango&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
